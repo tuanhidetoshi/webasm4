@@ -615,6 +615,7 @@ body {
   justify-content: space-between;
   width: 100%;
   flex-wrap: wrap;
+  margin-bottom: 80px;
 }
 
 .news-contain2 .card {
@@ -917,6 +918,10 @@ body {
 
   .bussiness-block {
     padding-left: 0;
+  }
+
+  .business-block1 {
+    flex-direction: row;
   }
 
   .bussiness-icon {
